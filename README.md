@@ -1,1 +1,1 @@
-Kotlin, JSON, Retrofit, HTTP Requests and Restful APIs, MVVM
+Kotlin, JSON, Retrofit, HTTP Requests, Restful APIs, MVVM
